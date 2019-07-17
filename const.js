@@ -9,7 +9,7 @@ const obj = {
 	sex: 'female',
 	age: 16
 }
-// master cong cong 
+// master cong cong add 
 console.log(obj)
 
 obj.name = 'hua hua'
