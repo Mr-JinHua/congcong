@@ -9,7 +9,7 @@ const obj = {
 	sex: 'female',
 	age: 16
 }
-
+// my congong 
 console.log(obj)
 
 obj.name = 'hua hua'
