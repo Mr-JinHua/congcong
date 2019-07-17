@@ -9,7 +9,7 @@ const obj = {
 	sex: 'female',
 	age: 16
 }
-// my congong 
+// my congong my stash new stash add stash
 console.log(obj)
 
 obj.name = 'hua hua'
